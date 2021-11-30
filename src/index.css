@@ -1,0 +1,16 @@
+/* body {
+  
+} */
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+@media (min-width: 200px) and (max-width: 600px) {
+    body {
+        background-color: red;
+        box-sizing: border-box;
+        margin: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+}
