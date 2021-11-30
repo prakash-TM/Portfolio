@@ -1,10 +1,11 @@
 import Header from "../../Header/HeaderIndex"
+import "./About.css"
 
 const About=()=>{
     return(
         <>
            <Header/>
-            <div style={{marginTop:"60px"}}>
+            <div className="align">
                 <h3>About Me</h3>
             </div>
             <div>
