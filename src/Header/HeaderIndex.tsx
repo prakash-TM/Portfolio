@@ -6,7 +6,7 @@ const Header = () => {
     <>
       <div className="header">
         <div style={{display:"flex"}}>
-          <img src="icon.jpg" style={{ width: "500px" }} />
+         <img src="https://tse3.mm.bing.net/th?id=OIP.qKoEwFdhODp99UZBuq8GSgHaD9&pid=Api&P=0&w=304&h=163" alt="image" />
         </div>
 
         <div className="header1">

@@ -31,5 +31,11 @@
 }
 
 .link:hover {
-    color: rgb(125, 219, 125);
+    color: rgb(248, 163, 35);
+    cursor: pointer;
+}
+
+img {
+    height: 60px;
+    padding-left: 40px;
 }
